@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Oscar",
+      "empresa": "Web development",
+      "email": "oscar@correo.com",
+      "telefono": "657252506",
+      "notas": "Esto es una nota de prueba",
+      "id": 1
+    },
+    {
+      "nombre": "Pedroe",
+      "empresa": "Pedro desinge",
+      "email": "pedro@correo.come",
+      "telefono": "6587799541",
+      "notas": "Esto es otra nota de pruebae",
+      "id": 2
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Programing and design SA",
+      "email": "karen@correo.com",
+      "telefono": "654321987",
+      "notas": "Tercera nota de prueba",
+      "id": 3
+    },
+    {
+      "nombre": "Paco",
+      "empresa": "Cocinero",
+      "email": "paco@correo.com",
+      "telefono": "987654321",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Nadia",
+      "empresa": "Turismo",
+      "email": "nadia@correo.com",
+      "telefono": "649384272",
+      "notas": "Nadia Guzzo agente turístico",
+      "id": 5
+    }
+  ]
+}
